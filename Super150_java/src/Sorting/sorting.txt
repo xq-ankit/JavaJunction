@@ -1,0 +1,9 @@
+bubble sort
+selection sort
+insertion sort
+merge sort
+quick sort
+counting sort
+DNF
+heap sort
+cycle sort

@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Syntax_00",
+            "request": "launch",
+            "mainClass": "Syntax_00",
+            "projectName": "src_39107070"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "Basic",
+            "projectName": "src_39107070"
+        },
+        {
+            "type": "java",
+            "name": "JavaBasic",
+            "request": "launch",
+            "mainClass": "Basics.JavaBasic",
+            "projectName": "src_39107070"
+        },
+        {
+            "type": "java",
+            "name": "Q1",
+            "request": "launch",
+            "mainClass": "Basics.Q1",
+            "projectName": "src_39107070"
+        },
+        {
+            "type": "java",
+            "name": "add",
+            "request": "launch",
+            "mainClass": "Basics.add",
+            "projectName": "src_39107070"
+        },
+        {
+            "type": "java",
+            "name": "checkprime",
+            "request": "launch",
+            "mainClass": "Basics.checkprime",
+            "projectName": "src_39107070"
+        },
+        {
+            "type": "java",
+            "name": "datatype",
+            "request": "launch",
+            "mainClass": "Basics.datatype",
+            "projectName": "src_39107070"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci_series",
+            "request": "launch",
+            "mainClass": "Basics.fibonacci_series",
+            "projectName": "src_39107070"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "Basics.hello",
+            "projectName": "src_39107070"
+        },
+        {
+            "type": "java",
+            "name": "input_in_java",
+            "request": "launch",
+            "mainClass": "Basics.input_in_java",
+            "projectName": "src_39107070"
+        },
+        {
+            "type": "java",
+            "name": "inputjava",
+            "request": "launch",
+            "mainClass": "Basics.inputjava",
+            "projectName": "src_39107070"
+        },
+        {
+            "type": "java",
+            "name": "largest_of_three",
+            "request": "launch",
+            "mainClass": "Basics.largest_of_three",
+            "projectName": "src_39107070"
+        },
+        {
+            "type": "java",
+            "name": "printstament",
+            "request": "launch",
+            "mainClass": "Basics.printstament",
+            "projectName": "src_39107070"
+        },
+        {
+            "type": "java",
+            "name": "variables",
+            "request": "launch",
+            "mainClass": "Basics.variables",
+            "projectName": "src_39107070"
+        },
+        {
+            "type": "java",
+            "name": "pattern_1",
+            "request": "launch",
+            "mainClass": "pattern_1",
+            "projectName": "src_39107070"
+        },
+        {
+            "type": "java",
+            "name": "pattern_2",
+            "request": "launch",
+            "mainClass": "pattern_2",
+            "projectName": "src_39107070"
+        },
+        {
+            "type": "java",
+            "name": "pattern_3",
+            "request": "launch",
+            "mainClass": "pattern_3",
+            "projectName": "src_39107070"
+        },
+        {
+            "type": "java",
+            "name": "pattern_4",
+            "request": "launch",
+            "mainClass": "pattern_4",
+            "projectName": "src_39107070"
+        }
+    ]
+}
